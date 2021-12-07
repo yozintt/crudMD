@@ -1,0 +1,16 @@
+{
+  "name": "yoand/crud",
+  "description": "API CRUD MVC em PHP",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "yozintt",
+      "email": "yoanderfl@gmail.com"
+    }
+  ],
+  "require": {}
+}
