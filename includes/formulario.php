@@ -16,12 +16,12 @@
 
         <div class="form-group">
             <label>CPF</label>
-            <imput type="text" class="form-control" name="cpf">
+            <input type="text" class="form-control" name="cpf">
         </div>
 
         <div class="form-group">
             <label>Email</label>
-            <imput type="text" class="form-control" name="email">
+            <input type="text" class="form-control" name="email">
         </div>
 
         <div class="form-group">
