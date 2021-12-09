@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity;
+namespace App\entity;
 
 use \App\Db\Database;
 use \PDO;
@@ -18,7 +18,7 @@ class Pessoa {
 
     public $descricao;
 
-    public $dat;
+    public $data;
 
   
   public function cadastrar(){

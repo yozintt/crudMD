@@ -4,7 +4,7 @@ require __DIR__.'/vendor/autoload.php';
 
 define('NOME','Editar pessoa');
 
-use \App\Entity\Pessoa;
+use \App\entity\Pessoa;
 
 
 if(!isset($_GET['id']) or !is_numeric($_GET['id'])){

@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use \App\Entity\Pessoa;
+use \App\entity\Pessoa;
 
 $pessoas = Pessoa::getPessoas();
 

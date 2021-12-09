@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use \App\Entity\Pessoa;
+use \App\entity\Pessoa;
 
 
 if(isset($_POST['nome'],$_POST['cpf'],$_POST['email'],$_POST['descricao'])){
