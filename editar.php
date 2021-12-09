@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-define('NOME','Editar pessoa');
+define('TITLE','Editar pessoa');
 
 use \App\Entity\Pessoa;
 

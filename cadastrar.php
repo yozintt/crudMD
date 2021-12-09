@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-define('NOME','Cadastrar pessoa');
+define('TITLE','Cadastrar pessoa');
 
 use \App\Entity\Pessoa;
 $obPessoa + new Pessoa;
