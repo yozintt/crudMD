@@ -3,6 +3,7 @@
 namespace App\DB;
 
 use \PDO;
+use \PDOException;
 
 class Database{
 
