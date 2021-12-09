@@ -18,7 +18,7 @@ class Pessoa {
 
     public $descricao;
 
-    public $data;
+    public $dat;
 
   
   public function cadastrar(){
