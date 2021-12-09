@@ -1,6 +1,6 @@
 <?php
 
-namespace App\eEntity;
+namespace App\Entity;
 
 use \App\Db\Database;
 use \PDO;
