@@ -2,11 +2,13 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use \App\Entity\Pessoa;
+define('NOME','Cadastrar pessoa');
 
+use \App\Entity\Pessoa;
+$obPessoa + new Pessoa;
 
 if(isset($_POST['nome'],$_POST['cpf'],$_POST['email'],$_POST['descricao'])){
-    $obPessoa = new Pessoa;
+    
     $obPessoa->nome = $_POST['nome'];
     $obPessoa->cpf = $_POST['cpf'];
     $obPessoa->email = $_POST['email'];
