@@ -5,7 +5,7 @@ namespace App\Entity;
 use \App\Db\Database;
 use \PDO;
 
-class Pessoa{
+class Pessoa {
 
  
   public $id;
